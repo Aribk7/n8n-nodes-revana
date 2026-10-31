@@ -1,0 +1,10 @@
+{
+	"node": "n8n-nodes-revana.revana",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Development", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [{ "url": "https://github.com/Aribk7/n8n-nodes-revana#credentials" }],
+		"primaryDocumentation": [{ "url": "https://github.com/Aribk7/n8n-nodes-revana#readme" }]
+	}
+}
