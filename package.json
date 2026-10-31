@@ -25,7 +25,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/Aribk7/n8n-nodes-revana.git"
+        "url": "git+https://github.com/Aribk7/n8n-nodes-revana.git"
     },
     "scripts": {
         "build": "n8n-node build",
@@ -58,5 +58,9 @@
     },
     "peerDependencies": {
         "n8n-workflow": "*"
+    },
+    "publishConfig": {
+        "access": "public",
+        "provenance": true
     }
 }
